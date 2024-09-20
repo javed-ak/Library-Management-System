@@ -74,7 +74,3 @@ Payments (JavaScript):
 - **Online Payment Integration:** Allow users to pay for memberships directly through the system.
 - **Reporting:** Implement advanced reporting features for administrators to analyze user activity and payments.
 - **Mobile App:** Develop a mobile app for users to manage their memberships on the go
-
-
-
-
