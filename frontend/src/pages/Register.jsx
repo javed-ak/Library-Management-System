@@ -23,7 +23,7 @@ const Register = () => {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-100 via-purple-50 to-pink-100 p-6">
       <div className="bg-white p-8 md:p-12 rounded-3xl shadow-2xl max-w-2xl w-full space-y-8 border border-indigo-200">
         <div className="text-center space-y-2">
-          <h2 className="text-4xl md:text-5xl font-extrabold text-indigo-700">Join Our Library</h2>
+          <h2 className="text-4xl md:text-5xl font-extrabold text-yellow-400">Join Our Library</h2>
           <p className="text-xl text-gray-600">Start your reading journey today!</p>
         </div>
         
