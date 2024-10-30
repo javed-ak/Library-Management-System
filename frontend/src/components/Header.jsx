@@ -8,7 +8,7 @@ export default function Header() {
         Logo
       </div>
       <div className="flex gap-5">
-        <div onClick={() => navigate('/')} className="cursor-pointer hover:text-yellow-400 active:bg-blue-600">Home</div>
+        <div onClick={() => navigate('/')} className="cursor-pointer hover:text-yellow-400">Home</div>
         <div onClick={() => navigate('/about')} className="cursor-pointer hover:text-yellow-400">About</div>
         <div onClick={() => navigate('/blog')} className="cursor-pointer hover:text-yellow-400">Blog</div>
         <div onClick={() => navigate('/contact')} className="cursor-pointer hover:text-yellow-400">Contact</div>

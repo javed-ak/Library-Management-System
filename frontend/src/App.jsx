@@ -7,6 +7,7 @@ import About from './pages/About';
 import Blog from './pages/Blog';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
+import SubFooter from './components/SubFooter';
 
 function App() {
   return (
@@ -20,7 +21,10 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/register" element={<Register />} />
         </Routes>
-        <Footer />
+        <div>
+          <Footer />
+          <SubFooter />
+        </div>
       </div>
     </Router>
   );
